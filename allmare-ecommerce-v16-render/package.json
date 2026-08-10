@@ -1,0 +1,12 @@
+{
+  "name": "allmare-ecommerce-v16-render",
+  "version": "16.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
