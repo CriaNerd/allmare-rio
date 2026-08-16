@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 150" role="img" aria-labelledby="title desc">
+<title id="title">Allmare Rio de Janeiro</title><desc id="desc">Marca Allmare com símbolo de oceano e assinatura Rio de Janeiro</desc>
+<defs><clipPath id="sea"><circle cx="72" cy="70" r="48"/></clipPath></defs>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="72" cy="70" r="55" stroke="#101820" stroke-width="5"/>
+<circle cx="72" cy="70" r="49" stroke="#1498e5" stroke-width="3"/>
+<g clip-path="url(#sea)">
+<path d="M24 64h96V18H24z" fill="#fff" stroke="none"/>
+<path d="M24 65h96v55H24z" fill="#1498e5" stroke="none"/>
+<path d="M22 69c9 0 9-6 18-6s9 6 18 6 9-6 18-6 9 6 18 6 9-6 18-6 9 6 18 6" stroke="#fff" stroke-width="5"/>
+<path d="M22 81c9 0 9-6 18-6s9 6 18 6 9-6 18-6 9 6 18 6 9-6 18-6 9 6 18 6" stroke="#fff" stroke-width="5"/>
+<path d="M22 93c9 0 9-6 18-6s9 6 18 6 9-6 18-6 9 6 18 6 9-6 18-6 9 6 18 6" stroke="#fff" stroke-width="5"/>
+</g></g>
+<text x="155" y="78" fill="#148fd8" font-family="Montserrat,Arial,sans-serif" font-size="48" font-weight="500" letter-spacing="14">ALLMARE</text>
+<text x="158" y="112" fill="#101820" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="5">RIO DE JANEIRO</text>
+</svg>
